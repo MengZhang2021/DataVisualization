@@ -1,5 +1,14 @@
 ## Welcome to GitHub Pages
 
+Journalism in the Age of Data Unknown
+
+The video provides a fascinating introductory glimpse into the exploding field of data visualization. It introduces the current situation for journalism and how important data visualization imply on this field. We can meet some of the researchers who have helped popularize data visualization for art and communication, Understand how data reporting and presentation are starting to change the face of newsrooms and how journalists are adapting traditional narrative formats to data visualization.
+
+Data visualization can be used not only in public journalism, but also can be used as personal data for interest, it can be a language or technique of our own to share life. Since data analysis is important to good journalism and bad visualization will misguide us to a different result, how to design an frame and guide to meed our requirement of effective data is challenging.
+
+As time goes by, we saw new generation of web browser and emerging technologies are changing the game for visualization and interactive graphics New tools, tutorials about data visualization are appearing all the time.Since articulate, high level thinkers and rock star designers illuminate their subject with enthusiasm. It's wonderful to see people at the top of their game, in the act of doing what they love to do, while contributing to the general good.
+
+
 You can use the [editor on GitHub](https://github.com/MengZhang2021/DataVisualization/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
