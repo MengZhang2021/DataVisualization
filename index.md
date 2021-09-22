@@ -6,6 +6,8 @@
 
 [Assignment2. The Future of Data Analysis](2thefuture.pdf)
 
+[Assignment3.The Parable of Google Flu: Traps in Big Data Analysis](3googleflu.pdf)
+
 You can use the [editor on GitHub](https://github.com/MengZhang2021/DataVisualization/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
