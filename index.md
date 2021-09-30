@@ -1,12 +1,13 @@
 ## Welcome to Meng Zhang's GitHub Page
 
 # DataVisualization
+[Springleaf](springleaf.png)
 
-[Assignment1. Journalism in the Age of Data](1journalism.pdf)
+[Journalism in the Age of Data](1journalism.pdf)
 
-[Assignment2. The Future of Data Analysis](2thefuture.pdf)
+[The Future of Data Analysis](2thefuture.pdf)
 
-[Assignment3.The Parable of Google Flu: Traps in Big Data Analysis](3googleflu.pdf)
+[The Parable of Google Flu: Traps in Big Data Analysis](3googleflu.pdf)
 
 You can use the [editor on GitHub](https://github.com/MengZhang2021/DataVisualization/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
