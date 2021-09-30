@@ -1,7 +1,9 @@
 # DataVisualization
 
-[Assignment1. Journalism in the Age of Data](1journalism.pdf)
+[Springleaf](springleaf.png)
 
-[Assignment2. The Future of Data Analysis](2thefuture.pdf)
+[Journalism in the Age of Data](1journalism.pdf)
 
-[Assignment3.The Parable of Google Flu: Traps in Big Data Analysis](3googleflu.pdf)
+[The Future of Data Analysis](2thefuture.pdf)
+
+[The Parable of Google Flu: Traps in Big Data Analysis](3googleflu.pdf)
